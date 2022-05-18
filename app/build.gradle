@@ -6,6 +6,8 @@ plugins {
 android {
     compileSdk 31
 
+
+
     defaultConfig {
         applicationId "kr.ac.tukorea.stockchartking"
         minSdk 26
@@ -28,6 +30,11 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+
+        viewBinding true
     }
 }
 
