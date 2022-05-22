@@ -1,5 +1,6 @@
 This file is Hodu_hi
 <<<<<<< HEAD
+<<<<<<< HEAD
 propose : is only use the test
 and this beautiful here
 =======
@@ -7,3 +8,9 @@ propose : is only use the test
 >>>>>>> 17d0043 (hodu-branch_txt file)
 no is not mine
 i love younha holic
+=======
+propose : is only use the test
+>>>>>>> 323163f (hodu-branch_txt file)
+
+우리집 고양이 츄르를 좋아해
+우리집 고양이 엉덩이 겁나커
